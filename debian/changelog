@@ -1,0 +1,11 @@
+wasta-resources-seb (1.0.1) trusty; urgency=medium
+
+  * initial github commit
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 04 Nov 2015 12:21:09 +0300
+
+wasta-resources-seb (1.0.0) precise; urgency=low
+
+  * initial release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 03 Apr 2015 15:28:31 +0300
